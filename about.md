@@ -6,7 +6,7 @@ title: About
 # Welcome to **Adventures of a Lone Star Explorer**!
 
 <div style="text-align: justify">
-Hi there, fellow space enthusiasts (and anyone else who accidentally stumbled onto this blog while searching for "how to cook freeze-dried spaghetti")! My name is Captain Greg Faraday, and I’m the first human to embark on an interstellar journey to explore the far reaches of the galaxy… and possibly the first person to admit that being in space isn’t as glamorous as it sounds.
+Hi there, fellow space enthusiasts (and anyone else who accidentally stumbled onto this blog while searching for "how to cook freeze-dried spaghetti")! My name is Captain Greg Faraday, and I’m the first human to embark on an interstellar journey to explore the far reaches of the galaxy…and possibly the first person to admit that being in space isn’t as glamorous as it sounds.
 
 This blog is a chronicle of my solo voyage through the cosmos, where I document the ups, the downs, and the very, very weird moments that come with traveling across light-years of space. Whether I’m chatting with an AI assistant that’s as sarcastic as a teenager, misidentifying alien plants as delicious snacks, or attempting to not get lost in the vast emptiness of the universe (spoiler alert: I get lost a lot), you’ll find it all here.
 
