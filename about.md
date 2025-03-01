@@ -1,6 +1,9 @@
 ---
 layout: layout.liquid
 title: About
+
+model: Chatgpt
+second prompt: Create the about page for this blog
 ---
 
 # Welcome to **Adventures of a Lone Star Explorer**!

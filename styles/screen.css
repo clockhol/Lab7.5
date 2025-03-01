@@ -51,6 +51,7 @@ h1 {
     font-family: "Tourney", sans-serif;
     font-size: 5em;
     letter-spacing: -2px;
+    margin: 35px 10px;
 }
 
 h1 strong {
@@ -90,8 +91,4 @@ ul.posts {
 
 h3 {
     font-style: italic;
-}
-
-.mainText {
-    text-align: justify;
 }
